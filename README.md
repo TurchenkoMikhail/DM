@@ -1,2 +1,3 @@
 # DM
-discrete mathematics
+3 labs on discrete mathematics course
+
